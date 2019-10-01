@@ -1,3 +1,6 @@
+/*
+ * Added this comment to test gitHub 
+ */
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
